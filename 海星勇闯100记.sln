@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "海星勇闯100记", "海星勇闯100记.vcxproj", "{D4DBADC6-AFE3-4ACE-8FC8-7023282C7B79}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "酱酱", "..\酱酱\酱酱.vdproj", "{AAACC910-598E-4BD0-889E-2D2B3A9BEAAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DBADC6-AFE3-4ACE-8FC8-7023282C7B79}.Debug|x64.ActiveCfg = Debug|x64
+		{D4DBADC6-AFE3-4ACE-8FC8-7023282C7B79}.Debug|x64.Build.0 = Debug|x64
+		{D4DBADC6-AFE3-4ACE-8FC8-7023282C7B79}.Debug|x86.ActiveCfg = Debug|Win32
+		{D4DBADC6-AFE3-4ACE-8FC8-7023282C7B79}.Debug|x86.Build.0 = Debug|Win32
+		{D4DBADC6-AFE3-4ACE-8FC8-7023282C7B79}.Release|x64.ActiveCfg = Release|x64
+		{D4DBADC6-AFE3-4ACE-8FC8-7023282C7B79}.Release|x64.Build.0 = Release|x64
+		{D4DBADC6-AFE3-4ACE-8FC8-7023282C7B79}.Release|x86.ActiveCfg = Release|Win32
+		{D4DBADC6-AFE3-4ACE-8FC8-7023282C7B79}.Release|x86.Build.0 = Release|Win32
+		{AAACC910-598E-4BD0-889E-2D2B3A9BEAAD}.Debug|x64.ActiveCfg = Debug
+		{AAACC910-598E-4BD0-889E-2D2B3A9BEAAD}.Debug|x86.ActiveCfg = Debug
+		{AAACC910-598E-4BD0-889E-2D2B3A9BEAAD}.Release|x64.ActiveCfg = Release
+		{AAACC910-598E-4BD0-889E-2D2B3A9BEAAD}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E607840E-8F4A-4D65-B67A-833113ED47D6}
+	EndGlobalSection
+EndGlobal
